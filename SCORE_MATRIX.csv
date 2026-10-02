@@ -1,0 +1,15 @@
+participant,C1,C2,C3,C4,C5,C6,weighted_score,rank,status,formula_check,eligibility_note
+Преп-Центр,5,5,4,4,5,4,91,1,FINAL_STEP5,OK,eligible
+WBBK,5,4,2,5,5,5,89,2,FINAL_STEP5,OK,eligible
+LOGIDEX,5,4,4,5,4,3,85,3,FINAL_STEP5,OK,eligible
+Будет сделано!,4,4,4,4,4,4,80,4,FINAL_STEP5,OK,eligible; 80-point tie won by frozen C1-first rule
+fulfil.pro,2,5,3,5,3,5,80,5,FINAL_STEP5,OK,eligible
+Helpberries,2,5,4,4,3,5,78,6,FINAL_STEP5,OK,eligible
+ФуллБокс / FullBox,5,4,4,3,4,3,77,7,FINAL_STEP5,OK,eligible
+Full-Fix,5,3,4,3,2,5,74,8,FINAL_STEP5,OK,eligible
+Fulllog,2,4,4,3,5,4,70,9,FINAL_STEP5,OK,eligible
+Yunu,4,3,3,5,3,2,69,10,FINAL_STEP5,OK,eligible
+Нитропак,3,4,0,3,4,3,61,11,FINAL_STEP5,OK,eligible
+FulFillYou,4,2,2,3,2,4,58,12,FINAL_STEP5,OK,eligible
+СДЭК Фулфилмент,3,2,3,3,3,2,52,13,FINAL_STEP5,OK,eligible
+Fulfilment-E,,,,,,,,,FINAL_EXCLUSION,N/A,reviewed; fixed admission rule A not confirmed by current public evidence
