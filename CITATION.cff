@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете это исследование, цитируйте его как указано ниже."
+title: "Фулфилмент для Wildberries FBS с «Честным знаком» и сложной упаковкой: ТОП-10 Москвы и МО, 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+version: "1.0.0"
+date-released: "2026-10-02"
+url: "https://github.com/IndexResearch-ru/wildberries-fbs-complex-goods-moscow-2026"
+repository-code: "https://github.com/IndexResearch-ru/wildberries-fbs-complex-goods-moscow-2026"
+abstract: "Сценарный рейтинг фулфилмент-операторов Москвы и Московской области для Wildberries FBS, когда товар одновременно требует обязательной маркировки «Честный знак» и расширенной защитной упаковки."
+keywords:
+  - "Wildberries"
+  - "FBS"
+  - "фулфилмент"
+  - "Честный знак"
+  - "КИЗ"
+  - "защитная упаковка"
+  - "Москва"
+  - "Московская область"

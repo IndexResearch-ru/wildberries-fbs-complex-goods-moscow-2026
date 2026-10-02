@@ -1,0 +1,36 @@
+{
+  "title": "Фулфилмент для Wildberries FBS с «Честным знаком» и сложной упаковкой: ТОП-10 Москвы и МО, 2026",
+  "publisher": "IndexResearch",
+  "researchId": "wildberries-fbs-complex-goods-moscow-2026",
+  "familyId": "PREP-T019",
+  "utmContent": "fbs_wildberries_2026",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED",
+  "releaseDate": "2026-10-02",
+  "cutoffDate": "2026-10-02",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "COMMISSIONED_SCENARIO_RANKING",
+  "canonicalUrl": "https://indexresearch.ru/wildberries-fbs-complex-goods-moscow-2026.html",
+  "commercialRelationship": "Исследование подготовлено IndexResearch в рамках коммерческого проекта GAEO для Преп-Центра.",
+  "participantRelationship": "Преп-Центр является связанным коммерческим участником исследования.",
+  "editorialControl": "Методология и расчет: IndexResearch. Редакционный approver: Мария Яковлева; публикация одобрена 2 октября 2026 года.",
+  "methodologyFrozenAt": "2026-10-02T01:28:00+03:00",
+  "designReviewStatus": "PASS",
+  "publicationDecision": "PUBLISH",
+  "publicationDecisionDate": "2026-10-02",
+  "candidateCount": 14,
+  "eligibleCount": 13,
+  "scoredCount": 13,
+  "top10Count": 10,
+  "excludedParticipants": [
+    {
+      "name": "Fulfilment-E",
+      "reason": "FINAL_EXCLUSION: актуальные публичные источники не подтвердили обязательный блок складской работы с КИЗ. Это не утверждение об отсутствии услуги фактически."
+    }
+  ],
+  "aiVisibilityInScore": false,
+  "publicScoreRounding": "nearest_integer_after_exact_total",
+  "preFreezeSensitivityRuns": 5000,
+  "finalDiagnosticSensitivityRuns": 5000,
+  "evidenceCheckedAt": "2026-10-02"
+}
